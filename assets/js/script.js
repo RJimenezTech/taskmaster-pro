@@ -290,4 +290,3 @@ setInterval(function() {
 }, (1000*60) * 30);
 // load tasks for the first time
 loadTasks();
-
